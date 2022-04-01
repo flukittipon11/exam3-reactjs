@@ -1,0 +1,42 @@
+.container-main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100%;
+}
+.header-robot {
+  margin-bottom: 2rem;
+  color: #1D4159;
+}
+.form-input {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+label {
+  font-size: 16px;
+}
+.input {
+  width: 20rem;
+  padding: 10px;
+  border-radius: 10px;
+}
+.box-input {
+  width: 20%;
+}
+.box-result {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.border-table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+}
+#box41{
+    background-color: green;
+}
+p{
+    font-size: 18px;
+}
